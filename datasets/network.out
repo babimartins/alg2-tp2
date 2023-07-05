@@ -1,0 +1,19 @@
+Algoritmo 2-Aproximado
+ Medias 
+ - Tempo: 0.003052
+ - Silhueta: 0.920772
+ - Indice de rand: 0.499571
+ - Raio maximo: 464207140.169052
+ Desvios padrao
+ - Tempo: 0.001178
+ - Silhueta: 0.008095
+ - Indice de rand: 0.000040
+ - Raio maximo: 19379177.441366
+
+Algoritmo K-Means
+ - Tempo: 0.140383
+ - Silhueta: 0.532010
+ - Indice de rand: 0.499545
+ - Raio maximo: 886489262.684970
+
+Raio verdadeiro: 491288098.514456
